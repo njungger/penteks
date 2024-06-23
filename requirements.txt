@@ -1,5 +1,6 @@
 pandas
 numpy
+Sastrawi
 StemmerFactory
 StopWordRemoverFactory
 re
