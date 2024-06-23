@@ -1,0 +1,13 @@
+pandas
+numpy
+StemmerFactory
+StopWordRemoverFactory
+re
+string
+nltk
+word_tokenize
+networkx
+sklearn
+matplotlib
+random
+math
